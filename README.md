@@ -12,5 +12,7 @@ Node2Vec node2vec: Scalable Feature Learning for Networks https://cs.stanford.ed
 LINE LINE: Large-scale Information Network Embedding https://arxiv.org/abs/1503.03578
 
 This is simply for fun:)
+
 You can put your own data on these models
+
 Just enjoy :)
